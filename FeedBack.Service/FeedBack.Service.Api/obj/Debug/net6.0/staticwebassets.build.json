@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k5rfmYASJZ1FA99lUcY5oxyyCGBSuFQnsAGRIi63LaQ=",
+  "Source": "FeedBack.Service.Api",
+  "BasePath": "_content/FeedBack.Service.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

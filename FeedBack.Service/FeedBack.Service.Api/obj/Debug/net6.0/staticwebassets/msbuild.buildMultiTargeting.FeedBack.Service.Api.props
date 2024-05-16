@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FeedBack.Service.Api.props" />
+</Project>
